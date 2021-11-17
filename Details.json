@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "60f8385ad51ee473787f7e77",
+    "stu_id": "3121309",
+    "firstName": "Harsh",
+    "lastName": "Kathiriya",
+    "e-mail": "kathiriy001@gannon.edu",
+  {
+    "_id": "60f8385ad51ee473787f7e77",
+    "stu_id": "3121309",
+    "firstName": "Vijay",
+    "lastName": "Arya",
+    "e-mail": "arya009@gannon.edu",
+  },
+  {
+    "_id": "60f8385ad51ee473787f7e77",
+    "stu_id": "3121309",
+    "firstName": "Parth",
+    "lastName": "Solanki",
+    "e-mail": "solanki005@gannon.edu",
+    "url": "/Users/harshkathiriya/Downloads/Archive (1)/dataset/Harsh/Harsh1"
+  },
+  {
+    "_id": "60f87475d51ee47378a00157",
+    "stu_id": "3121309",
+    "firstName": "Jash",
+    "lastName": "Masrani",
+    "e-mail": "masrani001@gannon.edu",
+    "url": ""
+  },
+  {
+    "_id": "60f8754fd51ee47378a07707",
+    "stu_id": "3121309",
+    "firstName": "Dhruhil",
+    "lastName": "Patel",
+    "e-mail": "patel217@gannon.edu",
+    "url": "/Users/harshkathiriya/Documents/Final Project /Images/Dhruhil Patel"
+  },
+  {
+    "_id": "60f87575d51ee47378a08995",
+    "stu_id": "3121309",
+    "firstName": "Marmik",
+    "lastName": "Patel",
+    "e-mail": "patel216@gannon.edu",
+    "url": ""
+  },
+  {
+    "_id": "60f87679d51ee47378a11909",
+    "stu_id": "310725",
+    "firstName": "Ripal",
+    "lastName": "Patel",
+    "e-mail": "patel203@gannon.edu",
+    "url": ""
+  },
+  {
+    "_id": "60f87709d51ee47378a1641a",
+    "stu_id": "3121309",
+    "firstName": "Nishant",
+    "lastName": "Thakkar",
+    "e-mail": "thakkar005@gannon.edu",
+    "url": ""
+  },
+  {
+    "_id": "60f87780d51ee47378a1a543",
+    "stu_id": "3121309",
+    "firstName": "Rutvik",
+    "lastName": "Rana",
+    "e-mail": "rana003@gannon.edu",
+    "url": ""
+  },
+  {
+    "_id": "60f877d2d51ee47378a1d11c",
+    "stu_id": "3121309",
+    "firstName": "Vraj",
+    "lastName": "Patel",
+    "e-mail": "patel211@gannon.edu",
+    "url": ""
+  },
+  {
+    "_id": "60f8780ad51ee47378a1ec22",
+    "stu_id": "3121309",
+    "firstName": "Usman",
+    "lastName": "Muhammad",
+    "e-mail": "usman001@gannon.edu",
+    "url": ""
+  },
+  {
+    "_id": "60f87834d51ee47378a2039e",
+    "stu_id": "3142815",
+    "firstName": "Shubhankar",
+    "lastName": "Desai",
+    "e-mail": "desai011@gannon.edu",
+    "url": ""
+  },
+  {
+    "_id": "60f8793cd51ee47378a28d2c",
+    "stu_id": "3121309",
+    "firstName": "Rehman",
+    "lastName": "Tajmilur",
+    "e-mail": "rahman007@gannon.edu",
+    "url": ""
+  },
+  {
+    "_id": "60f8796dd51ee47378a2a4ea",
+    "stu_id": "3121309",
+    "firstName": "Mark",
+    "lastName": "Blair",
+    "e-mail": "blair012@gannon.edu",
+    "url": ""
+  },
+  {
+    "_id": "60f87a0bd51ee47378a2ff4d",
+    "stu_id": "3121309",
+    "firstName": "Bharat",
+    "lastName": "Rawal",
+    "e-mail": "rawalksh001@gannon.edu",
+    "url": ""
+  },
+  {
+    "_id": "60f87a9bd51ee47378a34c9d",
+    "stu_id": "3121309",
+    "firstName": "Joshua",
+    "lastName": "Nwokeji",
+    "e-mail": "nwokeji001@gannon.edu",
+    "url": ""
+  },
+  {
+    "_id": "6129b37da3b3ede701a446e1",
+    "stu_id": "3142677",
+    "firstName": "Akshay",
+    "lastName": "Ramani",
+    "e-mail": "ramani002@gannon.edu",
+    "url": "/Users/harshkathiriya/Documents/Final Project /Images/Akshay Ramani"
+  },
+  {
+    "_id": "60f8385ad51ee473787f7e77",
+    "stu_id": "3121309",
+    "firstName": "Divyesh",
+    "lastName": "Vaghani",
+    "e-mail": "kathiriy001@gannon.edu",
+    "url": "/Users/harshkathiriya/Downloads/Archive (1)/dataset/Harsh/Harsh1"
+  },
+  {
+    "_id": "60f8385ad51ee473787f7e77",
+    "stu_id": "3121309",
+    "firstName": "Jaimisha",
+    "lastName": "Gandhi",
+    "e-mail": "gandhi004@gannon.edu",
+    "url": "/Users/harshkathiriya/Downloads/Archive (1)/dataset/Harsh/Harsh1"
+  },
+  {
+    "_id": "60f8385ad51ee473787f7e77",
+    "stu_id": "3121309",
+    "firstName": "Sachi",
+    "lastName": "Ponda",
+    "e-mail": "ponda001@gannon.edu",
+    "url": "/Users/harshkathiriya/Downloads/Archive (1)/dataset/Harsh/Harsh1"
+  },
+  {
+    "_id": "60f8385ad51ee473787f7e77",
+    "stu_id": "3121309",
+    "firstName": "Siddhi",
+    "lastName": "Brahmbhatt",
+    "e-mail": "brahmbha029@gannon.edu",
+    "url": "/Users/harshkathiriya/Downloads/Archive (1)/dataset/Harsh/Harsh1"
+  }
+]
